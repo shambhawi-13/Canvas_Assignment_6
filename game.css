@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(97, 88, 88);
+   
+
+}
+canvas{
+    background-color: rgb(62, 149, 171);
+     border-radius: 30px;
+     
+}
+#girl{
+    display: none;
+}
